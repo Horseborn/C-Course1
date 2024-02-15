@@ -5,13 +5,18 @@ class Program
     static void Main(string[] args)
     {
 
-        string[] cars = { "Toyota", "BMW", "Nissan" };
-
-
-        for (int i = 0; i < cars.Length; i++)
+        
+        
+        static void singHalleluja(string name, int age)
         {
-            Console.WriteLine(cars[i]);
+            Console.WriteLine("Halleluja by ");
+            Console.WriteLine("Dr.Alban");
+            Console.WriteLine($"or was it {name} that wrote the song ..");
+            Console.WriteLine($"Dr alban {age}");
         }
+        
+        singHalleluja("Smokey", 53);
+        
         
         
         Console.ReadKey();

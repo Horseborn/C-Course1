@@ -52,4 +52,29 @@ public class WrittenCode
 
         Console.WriteLine("loops are for dumbis");
      */
+    /*
+        string[] cars = { "Toyota", "BMW", "Nissan" };
+
+
+        for (int i = 0; i < cars.Length; i++)
+        {
+            Console.WriteLine(cars[i]);
+        }
+
+
+        foreach (var car in cars)
+        {
+            Console.WriteLine(car);
+        }
+        */
+    /*
+        static void singHalleluja(string name, int age)
+        {
+            Console.WriteLine("Halleluja by ");
+            Console.WriteLine("Dr.Alban");
+            Console.WriteLine($"or was it {name} that wrote the song ..");
+            Console.WriteLine($"Dr alban {age}");
+        }
+        
+        singHalleluja("Smokey", 53);*/
 }
