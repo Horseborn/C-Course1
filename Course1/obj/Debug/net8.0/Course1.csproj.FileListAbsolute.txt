@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\bin\Debug\net8.0\Course1.exe
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\bin\Debug\net8.0\Course1.deps.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\bin\Debug\net8.0\Course1.runtimeconfig.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\bin\Debug\net8.0\Course1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\bin\Debug\net8.0\Course1.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\refint\Course1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\Course1.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\Course1\Course1\obj\Debug\net8.0\ref\Course1.dll
